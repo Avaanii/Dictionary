@@ -1,3 +1,3 @@
 # Dictionary
 
-// Done using guided youtube vido
+// Done using guided youtube video
